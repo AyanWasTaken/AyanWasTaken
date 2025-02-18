@@ -8,6 +8,7 @@
     <img src="https://skillicons.dev/icons?i=py,cs,dotnet,java" />
   </a>
 </p>
+
 ## What am I currently working on?
 Im currently working on multiple projects that should be released in the near future.
 
