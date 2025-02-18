@@ -1,6 +1,9 @@
-hello :3
+# Hi! I am ayan and im a skilled dotnet developer.
+**Currently learning python.**
+**Can work with almost every .NET language on the face of the earth.**
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,py,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=py,cs,dotnet" />
   </a>
 </p>
