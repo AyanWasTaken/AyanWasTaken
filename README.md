@@ -6,6 +6,6 @@ Im currently working on multiple projects that should be released in the near fu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,dotnet, java" />
+    <img src="https://skillicons.dev/icons?i=py,cs,dotnet,java" />
   </a>
 </p>
