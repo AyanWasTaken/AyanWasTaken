@@ -2,6 +2,8 @@
 ### What I can work with
 **Currently learning python.**
 **Can work with almost every .NET language on the face of the earth.**
+
+
 p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,dotnet,java" />
