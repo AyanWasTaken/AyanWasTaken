@@ -1,7 +1,7 @@
 # Hi! I am ayan and im a skilled dotnet developer. (my new account since I lost "AyanTheDeveloper")
 ### What I can work with
 **Currently learning python.**
-**Can work with almost every .NET language on the face of the earth.** 
+**Can work with almost every .NET language.** 
 
 <p align="center">
   <a href="https://skillicons.dev">
